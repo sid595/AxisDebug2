@@ -9,3 +9,4 @@ activity will open and show you a graph of data that was analyzed and plotted
 
 NOTE: Exact algorithm of sGolay is not implemented. There are two coefficient sets available in the code:
 1. Order 4 with 21 coefficients[currently used] 2. Order 3 with 31 coefficients
+Note that ordere here means the order of polynomial that is being fit the frame data, not the order of the filter.
